@@ -28,7 +28,6 @@ const Col = React.createClass({
       componentClass: 'div'
     };
   },
-
   render() {
     let ComponentClass = this.props.componentClass;
     let classes = {};
